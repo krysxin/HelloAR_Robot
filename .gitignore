@@ -71,5 +71,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Vuforia package
+# Large file Vuforia package
 /Packages/com.ptc.vuforia.engine-10.17.4.tgz
